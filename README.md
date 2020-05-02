@@ -3,7 +3,7 @@
 Incorporated Firebase into our Flutter apps, using Firebase Cloud Firestore as well as the Firebase authentication package to equip this app with a cloud-based NoSQL database and secure authentication methods. 
 
 
-## What you will create
+## About this app
 
 This is a modern messaging app where users can sign up and log in to chat.
 
