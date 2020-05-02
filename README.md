@@ -1,6 +1,6 @@
 # Flash Chat ⚡️
 
-Incorporated Firebase into our Flutter apps, using Firebase Cloud Firestore as well as the Firebase authentication package to equip this app with a cloud-based NoSQL database and secure authentication methods. 
+Incorporated Firebase into my Flutter app, using Firebase Cloud Firestore as well as the Firebase authentication package to equip this app with a cloud-based NoSQL database and secure authentication methods. 
 
 
 ## About the app
